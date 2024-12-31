@@ -1,0 +1,14 @@
+.contact-page {
+    padding: 20px;
+    background-color: #f3e7ff;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .contact-page h1 {
+    color: #9C27B0;
+  }
+  
+  .contact-page p {
+    margin: 10px 0;
+  }

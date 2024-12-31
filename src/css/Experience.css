@@ -1,0 +1,19 @@
+.experience-page {
+    padding: 20px;
+    background-color: #fff3e7;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .experience-page h1 {
+    color: #FF9800;
+  }
+  
+  .experience-page ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .experience-page p {
+    margin: 5px 0 15px;
+  }
